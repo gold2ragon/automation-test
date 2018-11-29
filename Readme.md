@@ -1,3 +1,7 @@
+# Install Virtualenv
+```
+$ virtualenv venv -p python3
+```
 # Install selenium
 ```
 $ pip install selenium
